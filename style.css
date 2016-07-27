@@ -397,7 +397,11 @@ th {
 }
 
 body {
-  background: black;
+  background: white;
+}
+
+.wrapper {
+  margin: 50px;
 }
 
 /*# sourceMappingURL=style.css.map */
