@@ -396,8 +396,14 @@ th {
   padding: 0;
 }
 
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=PT+Mono&subset=latin-ext');
+</style> 
+
 body {
   background: white;
+  font-family: 'PT Mono';
 }
 
 .wrapper {
