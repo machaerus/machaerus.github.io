@@ -403,7 +403,7 @@ th {
 
 body {
   background: white;
-  font-family: 'PT Mono' !important;
+  font-family: 'PT Mono', monospace !important;
 }
 
 .wrapper {
